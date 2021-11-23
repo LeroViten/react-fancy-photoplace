@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "react-native-tests",
-    "slug": "react-native-tests",
+    "name": "fancy-photoplace",
+    "owner": "leroviten",
+    "slug": "fancy-photoplace",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
@@ -25,6 +26,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Simple React Native instagram mockup ;)",
+    "githubUrl": "https://github.com/LeroViten/react-fancy-photoplace"
   }
 }
